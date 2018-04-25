@@ -1,0 +1,2 @@
+# WavesPlatform
+nice project
